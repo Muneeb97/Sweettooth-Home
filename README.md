@@ -1,10 +1,10 @@
 # Sweettooth-Home
-Link : https://muneeb97.github.io/Sweettooth-Home/ <br\>
-Sweet Tooth Confectionary Home Page
+Link : https://muneeb97.github.io/Sweettooth-Home/ <br />
+Sweet Tooth Confectionary Home Page <br />
 
-First Website/
-A little Responsive - Cover Breaks Afterwards/
-Not Optimized for Handheld Devices/
+First Website<br />
+A little Responsive - Cover Breaks Afterwards<br />
+Not Optimized for Handheld Devices<br />
 
 jq : Jquery.min.js - 1.5 as i was having trouble using cdn link
 
